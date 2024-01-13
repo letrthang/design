@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T05:19:17.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BObCGC8W0hurYjk82O49" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-13T05:20:11.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p160kGk1NMKG-mfAXAQn" version="22.1.18" type="github" pages="2">
   <diagram name="Restaurant" id="C-jYXIoTOcxqAW46k9Y1">
     <mxGraphModel dx="1434" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="530" y="440" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edWy-4IRmyCV0jPXk_Dt-4" value="Create Menu" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="370" width="100" height="30" as="geometry" />
+          <mxGeometry x="620" y="370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edWy-4IRmyCV0jPXk_Dt-5" value="Menu for Resto 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fillColor=#dae8fc;align=left;spacing=15;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="404.5" y="370" width="195.5" height="30" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="310" y="520" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edWy-4IRmyCV0jPXk_Dt-27" value="Edit Menu" style="dashed=0;html=1;rounded=1;strokeColor=#BA3200;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#BA3200" vertex="1" parent="1">
-          <mxGeometry x="630" y="370" width="90" height="30" as="geometry" />
+          <mxGeometry x="305" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edWy-4IRmyCV0jPXk_Dt-29" value="Preview" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="1">
           <mxGeometry x="690" y="440" width="70" height="30" as="geometry" />
