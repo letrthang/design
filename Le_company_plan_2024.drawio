@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T22:26:15.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BYOPgT1zA4d3O8Q_oLCe" border="50" scale="3" compressed="false" locked="false" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T22:28:06.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RXJrsXdLEkirK3VJFMMP" border="50" scale="3" compressed="false" locked="false" version="24.5.4" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="794" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -33,6 +33,33 @@
         </mxCell>
         <mxCell id="Izuh_7VSpfHUf3xHKSjE-12" value="buy from market" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="466" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-14" value="Telua company" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="128" y="362" width="75" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Izuh_7VSpfHUf3xHKSjE-18" target="Izuh_7VSpfHUf3xHKSjE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Izuh_7VSpfHUf3xHKSjE-18" target="Izuh_7VSpfHUf3xHKSjE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Izuh_7VSpfHUf3xHKSjE-18" target="Izuh_7VSpfHUf3xHKSjE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-18" value="Integration fish farm to iAttendance" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-19" value="07/2024" style="text;strokeColor=#b85450;align=center;fillColor=#f8cecc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252" y="323" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-20" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-21" value="sale to market" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izuh_7VSpfHUf3xHKSjE-22" value="buy from market" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="418" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
