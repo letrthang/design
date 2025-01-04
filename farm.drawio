@@ -161,8 +161,8 @@
         <mxCell id="8xbOi37TkFdTeHMxHYpm-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Part 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="652" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8xbOi37TkFdTeHMxHYpm-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;APIs:&lt;br&gt;1. getAllSellingItems( ) =&amp;gt; List (items) =&amp;gt; display on &lt;b&gt;part 4&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="152" y="510" width="778" height="50" as="geometry" />
+        <mxCell id="8xbOi37TkFdTeHMxHYpm-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;b&gt;API&lt;/b&gt;:&amp;nbsp; getAllSellingItems( ) =&amp;gt; List (items) =&amp;gt; display on &lt;b&gt;part 4&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="778" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8xbOi37TkFdTeHMxHYpm-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Part 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="190" width="60" height="30" as="geometry" />
