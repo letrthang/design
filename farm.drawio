@@ -173,6 +173,9 @@
         <mxCell id="8xbOi37TkFdTeHMxHYpm-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Part 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="652" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8xbOi37TkFdTeHMxHYpm-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Part 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
