@@ -125,7 +125,7 @@
         <mxCell id="8xbOi37TkFdTeHMxHYpm-30" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="8xbOi37TkFdTeHMxHYpm-1" vertex="1">
           <mxGeometry x="449" y="13.18" width="73" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8FCFAEAffmK2UOV2XLyD-1" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#0057D2;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="8xbOi37TkFdTeHMxHYpm-1">
+        <mxCell id="8FCFAEAffmK2UOV2XLyD-1" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#003A78;strokeColor=none;gradientDirection=east;fillColor=#2395FF;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="8xbOi37TkFdTeHMxHYpm-1">
           <mxGeometry x="405" y="11.18" width="26.82" height="26.82" as="geometry" />
         </mxCell>
         <mxCell id="8xbOi37TkFdTeHMxHYpm-5" value="any text here to search" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
