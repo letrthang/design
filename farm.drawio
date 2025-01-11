@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3" pages="4">
   <diagram name="Company_menu" id="d9MECwk6M3lA7RhGrX-I">
     <mxGraphModel dx="946" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -187,6 +187,61 @@
         </mxCell>
         <mxCell id="8xbOi37TkFdTeHMxHYpm-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Order card&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f-FUk5V_XvEABR21xHDh" name="login_dialog">
+    <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-1" value="Email address" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="180" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="520" height="30" relative="1" as="geometry">
+            <mxPoint x="180" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-3" value="We&#39;ll never share your email with anyone else." style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="180" y="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-4" value="Password" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="520" height="30" relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-7" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry width="100" height="40" relative="1" as="geometry">
+            <mxPoint x="180" y="250" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-8" value="Close" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-9" value="" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-19" value="Language" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#E9ECEF;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="oJeQWf9IZSAFVCt_UwjU-9">
+          <mxGeometry x="10" y="5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-20" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="oJeQWf9IZSAFVCt_UwjU-19">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJeQWf9IZSAFVCt_UwjU-21" value="Register Account" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="oJeQWf9IZSAFVCt_UwjU-9">
+          <mxGeometry x="381" y="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
