@@ -281,9 +281,9 @@
         <mxCell id="AnAoWHb9JgO84sawvc6q-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;FarmSellItemInfo -&amp;gt; &lt;/span&gt;promotionIconId &lt;b style=&quot;&quot;&gt;= Preferred&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;font-size: 12px; background-color: rgb(251, 251, 251); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;font-size: 15px; color: light-dark(rgb(8, 8, 8), rgb(230, 230, 230)); background-color: transparent; white-space: normal;&quot;&gt;Mapping =&amp;gt; File name&lt;/span&gt;&lt;b style=&quot;font-size: 15px; color: light-dark(rgb(8, 8, 8), rgb(230, 230, 230)); background-color: transparent; white-space: normal;&quot;&gt; = Farm_Icon_&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(8, 8, 8), rgb(230, 230, 230)); background-color: transparent; font-size: 15px; white-space: normal;&quot;&gt;Preferred.PNG&lt;/b&gt;&lt;/pre&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AnAoWHb9JgO84sawvc6q-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.383;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.675;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnAoWHb9JgO84sawvc6q-3" target="AnAoWHb9JgO84sawvc6q-2">
+        <mxCell id="AnAoWHb9JgO84sawvc6q-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.675;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AnAoWHb9JgO84sawvc6q-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="550" as="sourcePoint" />
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
