@@ -287,6 +287,15 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AnAoWHb9JgO84sawvc6q-7" value="&lt;pre style=&quot;forced-color-adjust: none; color: rgb(8, 8, 8); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 15px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0);&quot;&gt;FarmShopSetting-&amp;gt; BusinessInfo -&amp;gt; grade_logo_id &lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px; color: light-dark(rgb(8, 8, 8), rgb(230, 230, 230)); background-color: transparent; white-space: normal;&quot;&gt;= Farm&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AnAoWHb9JgO84sawvc6q-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.412;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AnAoWHb9JgO84sawvc6q-7" target="GJd6rP8zLWlaqQeaVMcO-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
