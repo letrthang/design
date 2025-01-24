@@ -418,7 +418,7 @@
           <mxGeometry x="402.14" y="184.35818181818178" width="135" height="22" as="geometry" />
         </mxCell>
         <mxCell id="wvLi_BipSHNH23eerDgt-8" value="&lt;b&gt;Joined&lt;/b&gt;: 20-01-2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="558.1400000000001" y="372.6345454545454" width="130" height="32.72727272727273" as="geometry" />
+          <mxGeometry x="60.000000000000114" y="277.2745454545454" width="130" height="32.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="wvLi_BipSHNH23eerDgt-9" value="Telua Choice" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="346" y="129.99999999999994" width="100" height="30" as="geometry" />
@@ -432,17 +432,29 @@
         <mxCell id="GkkcaOhGdCzqMrM3VwRk-3" value="&lt;b style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5.000.000 VND&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="228.37" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GkkcaOhGdCzqMrM3VwRk-4" value="&lt;b style=&quot;color: rgb(128, 128, 128);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;10.000.000 VND&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="216.37" width="127.14" height="30" as="geometry" />
+        <mxCell id="GkkcaOhGdCzqMrM3VwRk-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent; font-size: 14px;&quot;&gt;Original price:&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent; font-weight: bold; font-size: 14px;&quot;&gt; 10.000.000 VND&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="216.37" width="127.14" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GkkcaOhGdCzqMrM3VwRk-15" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CFCFCF;" edge="1" parent="1" target="GkkcaOhGdCzqMrM3VwRk-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="564" y="231.37" as="sourcePoint" />
-            <mxPoint x="624" y="188" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GkkcaOhGdCzqMrM3VwRk-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 0);&quot;&gt;Discount:&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 0);&quot;&gt;- 50%&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="217.37" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GkkcaOhGdCzqMrM3VwRk-16" value="&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 0);&quot;&gt;- 50%&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="714" y="216.37" width="60" height="30" as="geometry" />
+        <mxCell id="og0y_hbwJWkmMeF-qLhA-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#6554C0;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#6554C0" vertex="1" parent="1">
+          <mxGeometry x="363.86" y="720" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="og0y_hbwJWkmMeF-qLhA-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Quantity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="87.86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VawLf_jidcVcF1dgKVZR-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="578.86" y="710" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VawLf_jidcVcF1dgKVZR-2" value="&lt;b&gt;Add to Card&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#33A64C;strokeWidth=1;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="VawLf_jidcVcF1dgKVZR-1">
+          <mxGeometry width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VawLf_jidcVcF1dgKVZR-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;" vertex="1" parent="VawLf_jidcVcF1dgKVZR-1">
+          <mxGeometry x="18.095238095238095" y="7.25" width="27.142857142857142" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VawLf_jidcVcF1dgKVZR-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Item options&lt;/font&gt;" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0" vertex="1" parent="1">
+          <mxGeometry x="346" y="290" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
