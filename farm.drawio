@@ -499,13 +499,13 @@
           <mxGeometry x="348" y="550" width="434" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VawLf_jidcVcF1dgKVZR-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="337.36" y="600" width="334.63999999999993" height="60" as="geometry" />
+          <mxGeometry x="337.36" y="600" width="442.64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VawLf_jidcVcF1dgKVZR-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: rgb(18, 18, 18);&quot;&gt;&lt;font style=&quot;&quot;&gt;25-01-2025 &lt;/font&gt;&lt;font style=&quot;&quot;&gt;to &lt;/font&gt;&lt;font style=&quot;&quot;&gt;30-01-2025&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="dashed=0;html=1;rounded=1;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fillColor=#E6FFCC;strokeColor=none;" vertex="1" parent="VawLf_jidcVcF1dgKVZR-32">
-          <mxGeometry x="9.639999999999986" y="30" width="325" height="30" as="geometry" />
+          <mxGeometry x="12.751164236194104" y="30" width="429.88883576380596" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VawLf_jidcVcF1dgKVZR-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Delivery by&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VawLf_jidcVcF1dgKVZR-32">
-          <mxGeometry width="97.14" height="30" as="geometry" />
+          <mxGeometry width="128.49046617260342" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
