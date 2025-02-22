@@ -837,11 +837,11 @@
         <mxCell id="30Eap0bo93PP3h5G2sFz-201" value="A10-20" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="30Eap0bo93PP3h5G2sFz-199">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30Eap0bo93PP3h5G2sFz-218" value="Text" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="12" height="12" as="geometry" />
-        </mxCell>
         <mxCell id="30Eap0bo93PP3h5G2sFz-222" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" vertex="1" parent="1">
           <mxGeometry x="760" y="570" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30Eap0bo93PP3h5G2sFz-223" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
