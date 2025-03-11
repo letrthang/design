@@ -1137,7 +1137,7 @@
         <mxCell id="xQq89EyfJqk8gaKo24wM-88" value="Pay/ Thanh Toán" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="160" y="1030" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xQq89EyfJqk8gaKo24wM-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buyer Note&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+        <mxCell id="xQq89EyfJqk8gaKo24wM-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Message for seller&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="160" y="960" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xQq89EyfJqk8gaKo24wM-99" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
