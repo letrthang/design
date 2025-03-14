@@ -1261,16 +1261,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-25">
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-25">
           <mxGeometry x="-0.1991" y="2" relative="1" as="geometry">
             <mxPoint x="32" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="343.33000000000004" y="730" as="geometry" />
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="338.33000000000004" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="90.00000000000006" y="720" as="geometry" />
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="86.00000000000006" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
