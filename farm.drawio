@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="10">
   <diagram name="Company_menu" id="d9MECwk6M3lA7RhGrX-I">
     <mxGraphModel dx="946" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1154,6 +1154,29 @@
         </mxCell>
         <mxCell id="mEMMpXYPjJJQE0t-OL26-4" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="mEMMpXYPjJJQE0t-OL26-2">
           <mxGeometry y="20" width="570" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a0Uvc58n52s7GcDpJQMS" name="IoT_device">
+    <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IoT - Device ID&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_device_management_fleet;" vertex="1" parent="1">
+          <mxGeometry x="40" y="246" width="124" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Redis Queue - FIFO&lt;/b&gt;&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="245.03" width="130.9" height="109.95" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.asm_service_mesh;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="86.23" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Scheduler - 60s&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="688.11" y="354.98" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Postgres DB&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_3.svg;" vertex="1" parent="1">
+          <mxGeometry x="698.11" y="540" width="110" height="81.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
