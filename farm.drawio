@@ -1163,8 +1163,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-2" target="Dpnh1WvnMkBxR65Ovpdh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1. device send data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-18">
+          <mxGeometry x="-0.3036" y="-1" relative="1" as="geometry">
+            <mxPoint x="30" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IoT - Device ID&lt;/b&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_device_management_fleet;" vertex="1" parent="1">
-          <mxGeometry x="40" y="246" width="124" height="124" as="geometry" />
+          <mxGeometry x="20" y="250" width="124" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Redis Queue - FIFO&lt;/b&gt;&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="380" y="245.03" width="130.9" height="109.95" as="geometry" />
@@ -1172,41 +1180,97 @@
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.asm_service_mesh;" vertex="1" parent="1">
           <mxGeometry x="710" y="250" width="86.23" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-5" target="Dpnh1WvnMkBxR65Ovpdh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. process and save to DB&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-21">
+          <mxGeometry x="-0.1611" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Scheduler - 60s&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="688.11" y="354.98" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Postgres DB&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_3.svg;" vertex="1" parent="1">
           <mxGeometry x="698.11" y="540" width="110" height="81.4" as="geometry" />
         </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-7" target="Dpnh1WvnMkBxR65Ovpdh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-7" target="Dpnh1WvnMkBxR65Ovpdh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="700" />
+              <mxPoint x="384" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;RabbitMQ&lt;/b&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="244.24" y="540" width="266.66" height="80" as="geometry" />
+          <mxGeometry x="200" y="540" width="266.66" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="780" width="83.32999999999998" height="130" as="geometry" />
+          <mxGeometry x="90" y="780" width="83.32999999999998" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Dashboard - POD1&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-11">
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vaadin Dashboard - POD1&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-11">
           <mxGeometry y="50" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-11">
           <mxGeometry x="7.669999999999959" width="68" height="63.2" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="780" width="83.32999999999998" height="130" as="geometry" />
+          <mxGeometry x="342" y="780" width="83.32999999999998" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-13" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Dashboard - POD2&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-12">
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-13" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Vaadin Dashboard - POD2&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-12">
           <mxGeometry y="50" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-12">
           <mxGeometry x="7.669999999999959" width="68" height="63.2" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="780" width="83.32999999999998" height="130" as="geometry" />
+          <mxGeometry x="590" y="780" width="83.32999999999998" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-16" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Dashboard - POD3&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-15">
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-16" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Vaadin Dashboard - POD3&lt;/b&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-15">
           <mxGeometry y="50" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dpnh1WvnMkBxR65Ovpdh-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="Dpnh1WvnMkBxR65Ovpdh-15">
           <mxGeometry x="7.669999999999959" width="68" height="63.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2. read from queue&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-19">
+          <mxGeometry x="0.0396" y="-1" relative="1" as="geometry">
+            <mxPoint y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-6" target="Dpnh1WvnMkBxR65Ovpdh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. notify to UI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-22">
+          <mxGeometry x="0.511" y="3" relative="1" as="geometry">
+            <mxPoint x="49" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1" source="Dpnh1WvnMkBxR65Ovpdh-7" target="Dpnh1WvnMkBxR65Ovpdh-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="710" />
+              <mxPoint x="629" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dpnh1WvnMkBxR65Ovpdh-25">
+          <mxGeometry x="-0.1991" y="2" relative="1" as="geometry">
+            <mxPoint x="32" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="343.33000000000004" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpnh1WvnMkBxR65Ovpdh-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;subscribe&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90.00000000000006" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
