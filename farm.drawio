@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="12">
   <diagram name="Company_menu" id="d9MECwk6M3lA7RhGrX-I">
     <mxGraphModel dx="946" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1312,6 +1312,83 @@
         </mxCell>
         <mxCell id="RNZ2yRQ2ZOvfzlP9XL7a-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;device_id: 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8KCzuTjFD9WIhG2gzIbK" name="farm_order_payment_successful">
+    <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="120" width="570" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-1">
+          <mxGeometry width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-3" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-1">
+          <mxGeometry y="30" width="570" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-3">
+          <mxGeometry width="570" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-5" value="Shop" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-4">
+          <mxGeometry width="189" height="33" as="geometry">
+            <mxRectangle width="189" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-6" value="Order ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-4">
+          <mxGeometry x="189" width="192" height="33" as="geometry">
+            <mxRectangle width="192" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-7" value="Amount" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-4">
+          <mxGeometry x="381" width="189" height="33" as="geometry">
+            <mxRectangle width="189" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-3">
+          <mxGeometry y="33" width="570" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-9" value="shop1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-8">
+          <mxGeometry width="189" height="32" as="geometry">
+            <mxRectangle width="189" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-10" value="123" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-8">
+          <mxGeometry x="189" width="192" height="32" as="geometry">
+            <mxRectangle width="192" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-11" value="120.000 VND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-8">
+          <mxGeometry x="381" width="189" height="32" as="geometry">
+            <mxRectangle width="189" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-3">
+          <mxGeometry y="65" width="570" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-13" value="shop2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-12">
+          <mxGeometry width="189" height="31" as="geometry">
+            <mxRectangle width="189" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-14" value="456" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-12">
+          <mxGeometry x="189" width="192" height="31" as="geometry">
+            <mxRectangle width="192" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-15" value="500.000 VND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-12">
+          <mxGeometry x="381" width="189" height="31" as="geometry">
+            <mxRectangle width="189" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-17" value="Summary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#004C99;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="FKIgbgPhC4geX5EhaPCS-1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKIgbgPhC4geX5EhaPCS-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Your order was successful.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
