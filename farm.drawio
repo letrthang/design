@@ -1388,7 +1388,10 @@
           <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FKIgbgPhC4geX5EhaPCS-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Your order was successful.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="470" height="30" as="geometry" />
+          <mxGeometry x="180" y="60" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sVEpi_KBL2i7Y7JwYL76-1" value="Grand Total Amount: 620.000 VND" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
