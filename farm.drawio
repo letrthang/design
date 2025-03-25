@@ -838,7 +838,7 @@
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30Eap0bo93PP3h5G2sFz-222" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/128x128/actions/button_ok.png" parent="1" vertex="1">
-          <mxGeometry x="760" y="566" width="20" height="20" as="geometry" />
+          <mxGeometry x="760" y="540" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="30Eap0bo93PP3h5G2sFz-223" value="Cancel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="365" y="410" width="130" height="40" as="geometry" />
