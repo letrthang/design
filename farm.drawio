@@ -1609,8 +1609,8 @@
         <mxCell id="Ajh4f3c4yTp20kJGl0n7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="h5XkldM2Bb-g7-OcTD6Z-1" source="Ajh4f3c4yTp20kJGl0n7-76" target="Ajh4f3c4yTp20kJGl0n7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ajh4f3c4yTp20kJGl0n7-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Right click: &lt;b&gt;Cancel Order&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;&quot;&gt;Sub-grid to view details all items of order&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
-          <mxGeometry x="440" y="80" width="300" height="30" as="geometry" />
+        <mxCell id="Ajh4f3c4yTp20kJGl0n7-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Right click: &lt;b&gt;Cancel Order, Delivery Information&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;&quot;&gt;- Sub-grid to view details all items of the order&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
+          <mxGeometry x="440" y="80" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ajh4f3c4yTp20kJGl0n7-78" value="" style="group" vertex="1" connectable="0" parent="h5XkldM2Bb-g7-OcTD6Z-1">
           <mxGeometry x="-150" y="450" width="570" height="126" as="geometry" />
@@ -1855,8 +1855,8 @@
         <mxCell id="Ajh4f3c4yTp20kJGl0n7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="h5XkldM2Bb-g7-OcTD6Z-1" source="Ajh4f3c4yTp20kJGl0n7-115" target="Ajh4f3c4yTp20kJGl0n7-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ajh4f3c4yTp20kJGl0n7-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;lazy loading&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
-          <mxGeometry x="590" y="390" width="90" height="30" as="geometry" />
+        <mxCell id="Ajh4f3c4yTp20kJGl0n7-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;- Right click:&amp;nbsp;&lt;b&gt;Delivery Information&lt;/b&gt;&lt;br&gt;- lazy loading&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
+          <mxGeometry x="550" y="390" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ajh4f3c4yTp20kJGl0n7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="h5XkldM2Bb-g7-OcTD6Z-1" source="DQNdfaie28jTjs_HMVio-3" target="Ajh4f3c4yTp20kJGl0n7-3">
           <mxGeometry relative="1" as="geometry">
