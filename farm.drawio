@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="13">
   <diagram name="Company_menu" id="d9MECwk6M3lA7RhGrX-I">
     <mxGraphModel dx="946" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1391,6 +1391,86 @@
           <mxGeometry x="180" y="60" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sVEpi_KBL2i7Y7JwYL76-1" value="Grand Total Amount: 620.000 VND" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="farm_customer_my_account" id="fkMMuQAjD4LvbfEFvsUs">
+    <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-0" />
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-1" parent="h5XkldM2Bb-g7-OcTD6Z-0" />
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-2" value="" style="group" vertex="1" connectable="0" parent="h5XkldM2Bb-g7-OcTD6Z-1">
+          <mxGeometry x="160" y="120" width="570" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-2">
+          <mxGeometry width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-4" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-2">
+          <mxGeometry y="30" width="570" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-4">
+          <mxGeometry width="570" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-6" value="Shop" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-5">
+          <mxGeometry width="189" height="33" as="geometry">
+            <mxRectangle width="189" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-7" value="Order ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-5">
+          <mxGeometry x="189" width="192" height="33" as="geometry">
+            <mxRectangle width="192" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-8" value="Amount" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-5">
+          <mxGeometry x="381" width="189" height="33" as="geometry">
+            <mxRectangle width="189" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-4">
+          <mxGeometry y="33" width="570" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-10" value="shop1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-9">
+          <mxGeometry width="189" height="32" as="geometry">
+            <mxRectangle width="189" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-11" value="1ABZ9 (10 chars length)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-9">
+          <mxGeometry x="189" width="192" height="32" as="geometry">
+            <mxRectangle width="192" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-12" value="120.000 VND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-9">
+          <mxGeometry x="381" width="189" height="32" as="geometry">
+            <mxRectangle width="189" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-4">
+          <mxGeometry y="65" width="570" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-14" value="shop2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-13">
+          <mxGeometry width="189" height="31" as="geometry">
+            <mxRectangle width="189" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-15" value="456" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-13">
+          <mxGeometry x="189" width="192" height="31" as="geometry">
+            <mxRectangle width="192" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-16" value="500.000 VND" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-13">
+          <mxGeometry x="381" width="189" height="31" as="geometry">
+            <mxRectangle width="189" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-17" value="Summary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#004C99;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-2">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Your order was successful.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
+          <mxGeometry x="180" y="60" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5XkldM2Bb-g7-OcTD6Z-19" value="Grand Total Amount: 620.000 VND" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="h5XkldM2Bb-g7-OcTD6Z-1">
           <mxGeometry x="450" y="120" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
