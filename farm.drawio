@@ -1292,7 +1292,7 @@
             <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ajh4f3c4yTp20kJGl0n7-121" value="Cancelled by shop" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Ajh4f3c4yTp20kJGl0n7-116">
+        <mxCell id="Ajh4f3c4yTp20kJGl0n7-121" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Cancelled by shop&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Ajh4f3c4yTp20kJGl0n7-116">
           <mxGeometry x="540" width="140" height="31" as="geometry">
             <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -1330,7 +1330,7 @@
             <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ajh4f3c4yTp20kJGl0n7-129" value="Order completed" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Ajh4f3c4yTp20kJGl0n7-124">
+        <mxCell id="Ajh4f3c4yTp20kJGl0n7-129" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;Order completed&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="Ajh4f3c4yTp20kJGl0n7-124">
           <mxGeometry x="540" width="140" height="31" as="geometry">
             <mxRectangle width="140" height="31" as="alternateBounds" />
           </mxGeometry>
