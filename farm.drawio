@@ -1992,19 +1992,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QM1AWf75MXtkvU405MmL-1" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="80" width="160" height="168" as="geometry" />
+          <mxGeometry x="-840" y="80" width="170" height="294" as="geometry" />
         </mxCell>
         <mxCell id="QM1AWf75MXtkvU405MmL-2" value="Home" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
-          <mxGeometry width="160" height="42" as="geometry" />
+          <mxGeometry width="170" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="QM1AWf75MXtkvU405MmL-3" value="Farm" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
-          <mxGeometry y="42" width="160" height="42" as="geometry" />
+        <mxCell id="QM1AWf75MXtkvU405MmL-8" value="Statistics" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
+          <mxGeometry y="42" width="170" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="QM1AWf75MXtkvU405MmL-3" value="In progressing Farms" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
+          <mxGeometry y="84" width="170" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="QM1AWf75MXtkvU405MmL-6" value="All Farms" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
+          <mxGeometry y="126" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="QM1AWf75MXtkvU405MmL-4" value="Food and Drug" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
-          <mxGeometry y="84" width="160" height="42" as="geometry" />
+          <mxGeometry y="168" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="QM1AWf75MXtkvU405MmL-5" value="Location" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
-          <mxGeometry y="126" width="160" height="42" as="geometry" />
+          <mxGeometry y="210" width="170" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="QM1AWf75MXtkvU405MmL-9" value="Settings" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="QM1AWf75MXtkvU405MmL-1">
+          <mxGeometry y="252" width="170" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
