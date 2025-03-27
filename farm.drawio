@@ -1997,6 +1997,12 @@
             <mxPoint x="-27" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gM-5rmT3-Px3ZbC-xMcY-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;table: farm_shop -&amp;gt; &lt;b&gt;address &lt;/b&gt;(jsonb)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="257" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gM-5rmT3-Px3ZbC-xMcY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zd1n6WU8RZE64y3qwhcN-11" target="gM-5rmT3-Px3ZbC-xMcY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
