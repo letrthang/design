@@ -116,18 +116,13 @@
             <mxRectangle width="206" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHBMjUVnW-5pPuf0W77k-48" value="NEW" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="770" width="206" height="48" as="geometry">
+        <mxCell id="YHBMjUVnW-5pPuf0W77k-48" value="NEW" style="connectable=1;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="350" width="206" height="48" as="geometry">
             <mxRectangle width="206" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHBMjUVnW-5pPuf0W77k-49" value="Value 6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="818" width="206" height="46" as="geometry">
-            <mxRectangle width="206" height="46" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YHBMjUVnW-5pPuf0W77k-53" value="PENDING APPROVAL" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="818" width="206" height="46" as="geometry">
+        <mxCell id="YHBMjUVnW-5pPuf0W77k-53" value="PENDING APPROVAL" style="connectable=1;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="398" width="206" height="46" as="geometry">
             <mxRectangle width="206" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
