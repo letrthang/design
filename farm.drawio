@@ -2444,7 +2444,7 @@
         <mxCell id="xycnzYFmkFjhbM_kVVbR-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="680" width="530" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xycnzYFmkFjhbM_kVVbR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xycnzYFmkFjhbM_kVVbR-18">
+        <mxCell id="xycnzYFmkFjhbM_kVVbR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" vertex="1" parent="xycnzYFmkFjhbM_kVVbR-18">
           <mxGeometry width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xycnzYFmkFjhbM_kVVbR-15" value="Cancel order" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="xycnzYFmkFjhbM_kVVbR-18">
@@ -2462,7 +2462,7 @@
         <mxCell id="xycnzYFmkFjhbM_kVVbR-14" value="customer asks to cancel order" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xycnzYFmkFjhbM_kVVbR-12">
           <mxGeometry y="25.275164835164837" width="451.06382978723406" height="25.275164835164837" as="geometry" />
         </mxCell>
-        <mxCell id="xycnzYFmkFjhbM_kVVbR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="goYVgFcKDAxglsgm2T2H-3" target="xycnzYFmkFjhbM_kVVbR-2">
+        <mxCell id="xycnzYFmkFjhbM_kVVbR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="goYVgFcKDAxglsgm2T2H-3" target="xycnzYFmkFjhbM_kVVbR-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="463" />
