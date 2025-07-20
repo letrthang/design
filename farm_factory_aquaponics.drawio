@@ -42,8 +42,8 @@
         <mxCell id="rQ8cJ8yB5F-JO5YkPUzW-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;line-height: 50%;&quot;&gt;COLLECTION MANIFOLD&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="20" y="-150" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rQ8cJ8yB5F-JO5YkPUzW-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;RAS Closed-Loop System - Red Tilapia with Carol Lettuce &amp;amp; Spirulina&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Vietnam Installation - 150kW Solar Grid-Tie System&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-320" width="1600" height="120" as="geometry" />
+        <mxCell id="rQ8cJ8yB5F-JO5YkPUzW-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;RAS Closed-Loop System - Red Tilapia with Carol Lettuce &amp;amp; Spirulina&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Vietnam Installation - 150kW Solar Grid-Tie System&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-320" width="1670" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rQ8cJ8yB5F-JO5YkPUzW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="rQ8cJ8yB5F-JO5YkPUzW-1" target="rQ8cJ8yB5F-JO5YkPUzW-2">
           <mxGeometry relative="1" as="geometry" />
