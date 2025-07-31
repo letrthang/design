@@ -2605,7 +2605,7 @@
           <mxGeometry x="20" y="148" width="800" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gV8svAHuhJF_5ni5BQH5-17" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="180" width="540" height="170" as="geometry" />
+          <mxGeometry x="40" y="180" width="540" height="203" as="geometry" />
         </mxCell>
         <mxCell id="gV8svAHuhJF_5ni5BQH5-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="gV8svAHuhJF_5ni5BQH5-17" vertex="1">
           <mxGeometry width="540" height="35" as="geometry" />
@@ -2649,7 +2649,7 @@
         <mxCell id="gV8svAHuhJF_5ni5BQH5-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="gV8svAHuhJF_5ni5BQH5-17" vertex="1">
           <mxGeometry y="102" width="540" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="gV8svAHuhJF_5ni5BQH5-31" value="Total Sell Items" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="gV8svAHuhJF_5ni5BQH5-30" vertex="1">
+        <mxCell id="gV8svAHuhJF_5ni5BQH5-31" value="Total Selling Items" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="gV8svAHuhJF_5ni5BQH5-30" vertex="1">
           <mxGeometry width="269" height="35" as="geometry">
             <mxRectangle width="269" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -2668,6 +2668,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gV8svAHuhJF_5ni5BQH5-36" value="Seafood" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="gV8svAHuhJF_5ni5BQH5-34" vertex="1">
+          <mxGeometry x="269" width="271" height="33" as="geometry">
+            <mxRectangle width="271" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YN3THBipn7wlL9nTxHrL-12" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="gV8svAHuhJF_5ni5BQH5-17">
+          <mxGeometry y="170" width="540" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="YN3THBipn7wlL9nTxHrL-13" value="Created Date" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YN3THBipn7wlL9nTxHrL-12">
+          <mxGeometry width="269" height="33" as="geometry">
+            <mxRectangle width="269" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YN3THBipn7wlL9nTxHrL-14" value="2025-01-30 20:00:00" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YN3THBipn7wlL9nTxHrL-12">
           <mxGeometry x="269" width="271" height="33" as="geometry">
             <mxRectangle width="271" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -2708,7 +2721,7 @@
           <mxGeometry y="22.5" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YN3THBipn7wlL9nTxHrL-11" value="View Documents" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="160" height="30" as="geometry" />
+          <mxGeometry x="610" y="180" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
