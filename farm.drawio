@@ -3345,7 +3345,7 @@
           <mxGeometry x="100" y="380" width="445" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gf-G_IntAwp0OBZrOqCJ-5" value="Left Panel Config 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=0;spacing=17;" parent="1" vertex="1">
-          <mxGeometry x="35" y="560" width="195" height="40" as="geometry" />
+          <mxGeometry x="35" y="730" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gf-G_IntAwp0OBZrOqCJ-6" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" parent="gf-G_IntAwp0OBZrOqCJ-5" vertex="1">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
@@ -3360,9 +3360,6 @@
         </mxCell>
         <mxCell id="qNLhWsqKxkk3Du2B-LOV-16" value="Save" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1050" width="86" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="qNLhWsqKxkk3Du2B-LOV-17" value="Photo" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.photo;" parent="1" vertex="1">
-          <mxGeometry x="40" y="810" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qNLhWsqKxkk3Du2B-LOV-18" value="Remove" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="152" y="1050" width="86" height="33" as="geometry" />
@@ -3455,7 +3452,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNLhWsqKxkk3Du2B-LOV-49" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="40" y="740" width="670" height="60" as="geometry" />
+          <mxGeometry x="30" y="830" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNLhWsqKxkk3Du2B-LOV-1" value="" style="group" parent="qNLhWsqKxkk3Du2B-LOV-49" vertex="1" connectable="0">
           <mxGeometry width="140" height="60" as="geometry" />
