@@ -3773,6 +3773,15 @@
         <mxCell id="C_3JGLurKb5oSodSorOX-17" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;RabbitMQChatMessageSender&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="4325" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="C_3JGLurKb5oSodSorOX-18" value="&lt;b&gt;C&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="990" y="4188" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_3JGLurKb5oSodSorOX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C_3JGLurKb5oSodSorOX-4" target="C_3JGLurKb5oSodSorOX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C_3JGLurKb5oSodSorOX-20" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RabbitMQMessageReceiver&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="4150" width="200" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
