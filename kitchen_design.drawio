@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="6TXpRYxZI8EXyyHeCNEK">
-    <mxGraphModel dx="1119" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1107" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="OTiWrJyXAqUXJAbJiiXr-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Máy lọc nước&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTiWrJyXAqUXJAbJiiXr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="OTiWrJyXAqUXJAbJiiXr-9" target="OTiWrJyXAqUXJAbJiiXr-3" edge="1">
+        <mxCell id="OTiWrJyXAqUXJAbJiiXr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;" parent="1" source="OTiWrJyXAqUXJAbJiiXr-9" target="OTiWrJyXAqUXJAbJiiXr-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTiWrJyXAqUXJAbJiiXr-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Bếp từ âm &lt;b&gt;5KW&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
