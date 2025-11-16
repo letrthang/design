@@ -89,7 +89,7 @@
         <mxCell id="W_BFd4WmU2xMqMuU86EH-5" value="&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 14px;&quot;&gt;&lt;b&gt;Lưu ý&lt;/b&gt;: Dùng ống ruột gà màu cam (&lt;b&gt;HDPE&lt;/b&gt;) để bọc dây điện&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="580" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-1" target="OTiWrJyXAqUXJAbJiiXr-3">
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0080;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-1" target="OTiWrJyXAqUXJAbJiiXr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-1" value="&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 14px;&quot;&gt;&lt;b&gt;Lưu ý&lt;/b&gt;: đã có sẵn&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -107,11 +107,28 @@
         <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-6" value="&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 14px;&quot;&gt;&lt;b&gt;Lưu ý&lt;/b&gt;: đã có sẵn&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-8" target="OTiWrJyXAqUXJAbJiiXr-2">
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-8" target="OTiWrJyXAqUXJAbJiiXr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-8" value="&lt;font style=&quot;font-size: 14px; color: rgb(255, 0, 128);&quot;&gt;&lt;b style=&quot;&quot;&gt;Lưu ý&lt;/b&gt;: thêm mới&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-10" target="OTiWrJyXAqUXJAbJiiXr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="280" />
+              <mxPoint x="310" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Thêm tấm nhựa lót cách điện giữa ổ điện và tấm nhôm của tủ&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="265" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="a5Vv3HHJ3ST7-uYJ8E-y-12" target="OTiWrJyXAqUXJAbJiiXr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5Vv3HHJ3ST7-uYJ8E-y-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Thêm tấm nhựa lót cách điện giữa ổ điện và tấm nhôm của tủ&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="250" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
