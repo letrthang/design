@@ -4517,6 +4517,48 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-1" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="Assets" vertex="1">
+          <mxGeometry height="102" width="510" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-5" parent="blWSuYaXjGAkIv8iHdEX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="34" width="510" as="geometry" />
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-6" parent="blWSuYaXjGAkIv8iHdEX-5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="Ticket ID" vertex="1">
+          <mxGeometry height="34" width="254" as="geometry">
+            <mxRectangle height="34" width="254" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-7" parent="blWSuYaXjGAkIv8iHdEX-5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="123ABC88" vertex="1">
+          <mxGeometry height="34" width="256" x="254" as="geometry">
+            <mxRectangle height="34" width="256" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-8" parent="blWSuYaXjGAkIv8iHdEX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
+          <mxGeometry height="33" width="510" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-9" parent="blWSuYaXjGAkIv8iHdEX-8" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="Title" vertex="1">
+          <mxGeometry height="33" width="254" as="geometry">
+            <mxRectangle height="33" width="254" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-10" parent="blWSuYaXjGAkIv8iHdEX-8" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="check for my order: 1234" vertex="1">
+          <mxGeometry height="33" width="256" x="254" as="geometry">
+            <mxRectangle height="33" width="256" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-11" parent="blWSuYaXjGAkIv8iHdEX-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="35" width="510" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-12" parent="blWSuYaXjGAkIv8iHdEX-11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="Type" vertex="1">
+          <mxGeometry height="35" width="254" as="geometry">
+            <mxRectangle height="35" width="254" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blWSuYaXjGAkIv8iHdEX-13" parent="blWSuYaXjGAkIv8iHdEX-11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="ORDER" vertex="1">
+          <mxGeometry height="35" width="256" x="254" as="geometry">
+            <mxRectangle height="35" width="256" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
