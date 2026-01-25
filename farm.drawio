@@ -4424,7 +4424,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUhrZZZ4VXEGXVZKvjss-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Text editor (data to store in S3)" vertex="1">
+        <mxCell id="BUhrZZZ4VXEGXVZKvjss-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Text editor (static file to store in private S3)" vertex="1">
           <mxGeometry height="100" width="540" x="30" y="750" as="geometry" />
         </mxCell>
         <mxCell id="BUhrZZZ4VXEGXVZKvjss-52" parent="1" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Delete" vertex="1">
