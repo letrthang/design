@@ -3936,7 +3936,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KurdGsNlfkrXVtgSihV8" name="Customer_support">
-    <mxGraphModel dx="871" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3951,7 +3951,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GtgRmWoPHoMJ5UXuxVpg-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Text editor (data to store in S3)" vertex="1">
+        <mxCell id="GtgRmWoPHoMJ5UXuxVpg-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Text editor (static file to store in S3)" vertex="1">
           <mxGeometry height="100" width="540" x="130" y="505" as="geometry" />
         </mxCell>
         <mxCell id="GtgRmWoPHoMJ5UXuxVpg-70" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Submit" vertex="1">
