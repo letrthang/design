@@ -4062,12 +4062,6 @@
             <mxRectangle height="36" width="159" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZZJakf3L8N2p2xdE1pX-60" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteIcon;fillColor=#e8878E;fillColor2=#BD1421;strokeColor=#ffffff;sketch=0;" value="" vertex="1">
-          <mxGeometry height="18" width="18" x="137" y="176" as="geometry" />
-        </mxCell>
-        <mxCell id="EZZJakf3L8N2p2xdE1pX-61" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteIcon;fillColor=#e8878E;fillColor2=#BD1421;strokeColor=#ffffff;sketch=0;" value="" vertex="1">
-          <mxGeometry height="18" width="18" x="137" y="210" as="geometry" />
-        </mxCell>
         <mxCell id="EZZJakf3L8N2p2xdE1pX-62" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/edit-1273.svg" value="" vertex="1">
           <mxGeometry height="24" width="24" x="185" y="173" as="geometry" />
         </mxCell>
