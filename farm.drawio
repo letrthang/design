@@ -4150,7 +4150,7 @@
         <mxCell id="XFyg7796OxHDD2FCvMn7-2" parent="XFyg7796OxHDD2FCvMn7-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1">
           <mxGeometry height="37" width="530" as="geometry" />
         </mxCell>
-        <mxCell id="XFyg7796OxHDD2FCvMn7-3" parent="XFyg7796OxHDD2FCvMn7-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="Ticket Title" vertex="1">
+        <mxCell id="XFyg7796OxHDD2FCvMn7-3" parent="XFyg7796OxHDD2FCvMn7-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="Title" vertex="1">
           <mxGeometry height="37" width="264" as="geometry">
             <mxRectangle height="37" width="264" as="alternateBounds" />
           </mxGeometry>
